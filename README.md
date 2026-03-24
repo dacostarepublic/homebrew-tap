@@ -6,8 +6,10 @@ This tap publishes Homebrew formulae for dacostarepublic projects.
 
 ```bash
 brew tap dacostarepublic/tap
-brew install lumen
+brew install --formula lumen
 ```
+
+Note: `lumen` also exists as a Homebrew cask. Use `--formula` so Homebrew installs this CLI formula.
 
 ## Upgrade
 
