@@ -1,7 +1,6 @@
 class Lumen < Formula
   desc "Terminal-first wallpaper manager for macOS"
   homepage "https://github.com/dacostarepublic/lumen"
-  version "2.1.0"
   url "https://github.com/dacostarepublic/lumen/releases/download/v2.1.0/lumen-v2.1.0-macos.tar.gz"
   sha256 "b66ee98a403143001524d30fc28b3e4e9c47da66845484ae069a7e05426bad0c"
   license "MIT"
